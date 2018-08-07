@@ -20,10 +20,10 @@ Girls Do Code is the organization created to help newbies to learn more about we
 1. open your code in some text editor and navigate to index.html file.
 2. the very first thing to try and to get a feel of what the code is all about just try editing some text randomly ( open the webpage in your browser and try to find the words quoted there and edit the same part in your text editor to something else and then just save and relode the webpage. you should be ale to see the change of text on the webpage.
 3. so now we are able to edit the content on the webpage to time to proceed further.
-4. you are by now able to see some tags( for eg "<title>  </title>", /<a href="..."> sort of things). these are the things which tells the code about what to do with the text mentioned. 
+4. you are by now able to see some tags( for eg "<title>....</title>", \<a href="..."> sort of things). these are the things which tells the code about what to do with the text mentioned. 
 for eg. 
 <title>Hacks</title> means that the webpage title(the name you are able to see in the tab present in your web browser) should be Hacks
-<img src="images/undefined.svg" width="50" height="50"> is example of a way to add image in which "images/undefined.svg" is the path to image we want to link and the width and height things denote the width and height of the image respectively.
+\<img src="images/undefined.svg" width="50" height="50"> is example of a way to add image in which "images/undefined.svg" is the path to image we want to link and the width and height things denote the width and height of the image respectively.
 5. now try changing some images in your webpage. 
   - add the image you want to put in your webpage in the same folder all other images are present in your website code.
   - change the image name in the link mentioned on your index.html and now just save and reload. you should be able to see the image you uploaded.
