@@ -38,4 +38,4 @@ so whatever part you are gonna comment out in your code those parts will not at 
 3. and just comment it out. ( if using visual studio code just select the part of code and press cntrl + / ) 
 #### general ways to comment a code 
 1. for eg if you want to comment the word "banner"
- all you need to do is add <!-- before banner and --> after it i.e it should look like <!--banner-->
+ all you need to do is add <\!-- before banner and --> after it i.e it should look like \<\!--banner-->
