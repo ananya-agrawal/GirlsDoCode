@@ -35,7 +35,7 @@ for eg.
 - so whatever part you are gonna comment out in your code those parts will not at all be visible on your webpage anymore and won't effect your other part of code. and yeah, the best part is you can uncomment them (by removing those extra things got added to comment it) and get them back on your webpage.
 1. to remove some section of your webpage all you need to find that section in your code ( it will most probably start with a <division> or <section> tag).
 2. now select that entire piece of code ( upto where you want to remove (you will be able to figure out that a block of code generally starts from <div> and ends with </div> i.e basically starts with <...> and ends with </...>))
-3. and just comment it out. ( if using visual studio code just select the part of code and press cntrl + / ) 
+3. and just comment it out. ( if using visual studio code just select the part of code and press ctrl + / ) 
 #### general ways to comment a code 
 1. for eg if you want to comment the word "banner"
  all you need to do is add <\!-- before banner and --> after it i.e it should look like \<\!--banner-->
