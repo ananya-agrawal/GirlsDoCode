@@ -27,8 +27,8 @@ for eg.
 5. now try changing some images in your webpage. 
   - add the image you want to put in your webpage in the same folder all other images are present in your website code.
   - change the image name in the link mentioned on your index.html and now just save and reload. you should be able to see the image you uploaded.
-6. so in this way you ould change text and add and remove images.
-7. now all you need to do is play more with your code and allow your imagination to build a website for yourself.
+6. so in this way you could change text and add and remove images.
+7. now all you need to do is play more with your code and make a website for yourself.
 #### 4. remove parts of code
 you can remove parts of code in your webpage by commenting it out.
 in a code we can write some parts and make them not at all effect code and this is known as comments in code.
