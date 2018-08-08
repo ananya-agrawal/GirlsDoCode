@@ -30,9 +30,9 @@ for eg.
 6. so in this way you could change text and add and remove images.
 7. now all you need to do is play more with your code and make a website for yourself.
 #### 4. remove parts of code
-you can remove parts of code in your webpage by commenting it out.
-in a code we can write some parts and make them not at all effect code and this is known as comments in code.
-so whatever part you are gonna comment out in your code those parts will not at all be visible on your webpage anymore and won't effect your other part of code. and yeah, the best part is you can uncomment them (by removing those extra things got added to comment it) and get them back on your webpage.
+- you can remove parts of code in your webpage by commenting them out.
+- in a code we can write some parts and make them not at all effect code and this is known as comments in code.
+- so whatever part you are gonna comment out in your code those parts will not at all be visible on your webpage anymore and won't effect your other part of code. and yeah, the best part is you can uncomment them (by removing those extra things got added to comment it) and get them back on your webpage.
 1. to remove some section of your webpage all you need to find that section in your code ( it will most probably start with a <division> or <section> tag).
 2. now select that entire piece of code ( upto where you want to remove (you will be able to figure out that a block of code generally starts from <div> and ends with </div> i.e basically starts with <...> and ends with </...>))
 3. and just comment it out. ( if using visual studio code just select the part of code and press cntrl + / ) 
