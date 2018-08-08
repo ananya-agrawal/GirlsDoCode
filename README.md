@@ -19,7 +19,7 @@ Girls Do Code is the organization created to help newbies to learn more about we
 #### 3. Editing the code
 1. open your code in some text editor and navigate to index.html file.
 2. the very first thing to try and to get a feel of what the code is all about,edit some text randomly ( open the webpage in your browser and try to find the words quoted there and edit the same part in your text editor to something else and then just save and relode the webpage. you should be able to see the change of text on the webpage.
-3. so now we are able to edit the content on the webpage to time to proceed further.
+3. so now we are able to edit the content on the webpage, so time to proceed further.
 4. you are by now able to see some tags( for eg "<title>....</title>", \<a href="..."> sort of things). these are the things which tells the code about what to do with the text mentioned. 
 for eg. 
 - <title>Hacks</title> means that the webpage title(the name you are able to see in the tab present in your web browser) should be Hacks
