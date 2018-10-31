@@ -7,14 +7,14 @@ Girls Do Code is the organization created to help newbies to learn more about we
   - Instead of coding from scratch we can use online available html templates.
   - Open google and search for "free html templates"
   - Select the one you like and download it
-  - navigate to downloaded file and open it in any text editor you have ( e.g visual studio code, sublime text editor)
-  - now you will be able to see website code inside your text editor.
-  - navigate to the folder in which your code is present and open the file named index.html. You will now be able to see the website in your web browser.
+  - Navigate to downloaded file and open it in any text editor you have ( e.g visual studio code, sublime text editor)
+  - Now you will be able to see website code inside your text editor.
+  - Navigate to the folder in which your code is present and open the file named index.html using any web browser. You will now be able to see the website in your web browser.
 #### 2. Basic File structure of the code we have
  1. index.html
   this file is the main part of your website and contains the basic code. This files contains things you are able to see on your website.
  2. css
-  css is like clothes to your body. the present website you have will also be having some css files in it that gives the website the design (color, transitions etc ).
+  css is like clothes to your body. the present website you have will also be having some css files in it that gives the website the design (color, transitions etc ).It consists of designing part basically.
  3. else everything you don't need to worry about for now.
 #### 3. Editing the code
 1. open your code in some text editor and navigate to index.html file.
@@ -39,3 +39,6 @@ for eg.
 #### general ways to comment a code 
 1. for eg if you want to comment the word "banner"
  all you need to do is add <\!-- before banner and --> after it i.e it should look like \<\!--banner-->
+
+# Author
+Ananya Agrawal
