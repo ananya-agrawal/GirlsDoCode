@@ -39,3 +39,6 @@ for eg.
 #### general ways to comment a code 
 1. for eg if you want to comment the word "banner"
  all you need to do is add <\!-- before banner and --> after it i.e it should look like \<\!--banner-->
+
+# Author
+Ananya Agrawal
